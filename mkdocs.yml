@@ -1,0 +1,4 @@
+site_name: Informatica II
+theme:
+    name: mkdocs
+    nav_style: dark
